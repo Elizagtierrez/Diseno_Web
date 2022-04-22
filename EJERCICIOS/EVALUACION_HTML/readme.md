@@ -80,7 +80,8 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
- ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+ ![image](https://user-images.githubusercontent.com/90996552/164745725-286f9621-a386-457f-9dcc-de33990b7618.png)
+
     
 ## 4. LENGUAJE HTML
 
@@ -93,164 +94,140 @@ Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
     
-        a) Home Tool Markup Language
-        b) Hyperlinks and Text Markup Language
         c) Hyper Text Markup Language
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
-        a) heading
-        b) hed
-        c) h6
         d) h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
-        a) lb
+       
         b) br
-        c) break
+       
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-        a) <background>yellow</background>
-        b) <body bg="yellow">
+       
         c) <body style="background-color:yellow;">
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
-        a) b
+        
         b) strong
-        c) i
-        d) important
+       
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
     
-        a) italic
-        b) em
+        
         c) i
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
-        a) <a>https://adip.cdmx.gob.mx/</a>
-        b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
-        c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
-        d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
+      
+         c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
+       
   
   
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
   
-        a) <a href="url" target="new">
+       
         b) <a href="url" target="_blank">
-        c) <a href="url" new>
+        
   
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
   
-          a) thead body  tr
-          b) table  tr  tt
-          c) table  head  tfoot
+         
           d) table  tr  td
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
           a) Verdadero
-          b) Falso
+        
     
   
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
   
-          a) list
+          
           b) ol
-          c) ul
-          d) dl
+         
   
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
   
-          a) ol
+         
           b) ul
-          c) list
-          d) dl
+         
   
 13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
   
-          a) input type="check"
-          b) check
-          c) checkbox
+         
           d) <input type="checkbox">  
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
-          a) textfield
-          b) textinput type="text"
-          c) input type="textfield"
+         
           d) input type="text"
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
   
-          a) list
-          b) input type="list"
-          c) input type="dropdown"
-          d) select
+         
+          
+          d)select
+        
   
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
   
-          a) input type="textbox"
-          b) input type="textarea"
+        
           c) textarea
   
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
           a) <img src="image.gif" alt="Mi imagen">
-          b) <img href="image.gif" alt="Mi imagen">
-          c) <img alt="Mi imagen">image.gif</img>
-          d) <image src="image.gif" alt="Mi imagen">
+          
   
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
   
-          a) <body bg="background.gif">
-          b) <body style="background-image:url(background.gif)">
+          
           c) <background img="background.gif">
   
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
   
-        a) Verdadero
+       
         b) Falso
 
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-        a) Verdadero
+        
         b) Falso
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
         a) title
-        b) head
-        c) meta
+       
   
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
 
-        a) longdesc
-        b) src
+       
         c) alt
-        d) title
+      
   
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
         a) <!DOCTYPE html>
-        b) <!DOCTYPE HTML5>
+      
   
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
   
 24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
   
-        a) bottom
+        
         b) footer
-        c) section
+        
   
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
         a) video
-        b) media
-        c) movie
+       
   
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
@@ -267,3 +244,49 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+        
+        
+           
+                                                <!DOCTYPE html>
+                                                <html lang="en">
+                                                <head>
+                                                    <meta charset="UTF-8">
+                                                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                                                    <meta name="viewport" content="width=, initial-scale=1.0">
+                                                    <title>Deskop</title>
+                                                </head>
+                                                <body>
+                                                    <header>
+                                                      <p><h1>ENCABEZADO NIVEL1</h1></p> 
+                                                       <nav>
+                                                     <ul>
+                                                    <a href="url1" target="blank"><li>ENLACE1</li></a>
+                                                    <a href="url1" target="blank"><li>ENLACE2</li></a>
+                                                    <a href="url1" target="blank"><li>ENLACE3</li></a> 
+                                                    <a href="url1" target="blank"><li>ENLACE4</li></a>
+                                                     </ul>
+                                                       </nav>
+                                                   </header>
+
+                                                   <main>
+                                                      <section>
+                                                      <p><h2>Encabezado nivel2</h2></p>
+                                                      <p>Aquí va texto del primer párrafo <br> Aqui va el texto del segundo párrafo</p>
+                                                      </section>
+                                                     <aside>
+                                                      <p><h2>Apartado</h2></p> <br>
+                                                      <p>Elije una opción</p> 
+                                                         <input type="checkbox" name="option" value="option"> option1 <br>
+                                                         <input type="checkbox" name="option" value="option"> option2 <br>
+                                                         <input type="checkbox" name="option" value="option"> option3 <br>
+                                                         <input type="submit" value="Enviar">
+                                                      </aside>
+                                                   </main>
+
+                                                    <footer>
+                                                      <p>Sección de información de contacto, derechos de autor, etc.</p>
+                                                    </footer>
+                                                </body>
+                                                </html>
+        
+        
