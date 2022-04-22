@@ -5,17 +5,17 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 
 Preguntas:
 
-1. ¿Qué es el hipertexto? (valor 1.0)
+1. ¿Qué es el hipertexto? (valor 1.0) En un conjunto estructurado de texto unidos entre sí por enlaces.
 
-2. ¿Qué es la hipermedia? (valor 1.0)
+2. ¿Qué es la hipermedia? (valor 1.0) Conjunto estructurado de multimedia con video, audio e hipertexto unidos entre sí con enlaces.
 
-3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
+3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0) Es un lenguaje de marcado con texto plano y compactado que estructura el texto de forma jerárquica.
 
-4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
+4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0) Define la estructura con elementos y etiquetas ya dadas en esa versión de HTML.
 
-5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
+5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0) traducir el texto o documento HTML en video, sonido, en contenido multimedia.
 
-6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0) HTML es un lenguaje de marcado que estructura los elementos que componen un sitio web de forma jerárquica, Css da estilo y color a las páginas web, Java Script permite la interacción y funciones dentro de la página eb.
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
@@ -24,22 +24,21 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 
 Preguntas:
 
-1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
+1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0) cortar, pegar, copiar, editar texto, escribir texto.
 
-2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0) visual estudio, blok de notas, word.
 
-3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
+3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0) .html
 
-4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
+4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0) .html
 
-5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0) png, gif, jpg, svg, webp
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
 a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
-        a) Cierto
         b) Falso
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
@@ -48,44 +47,34 @@ Objetivo: Verificar el dominio del concepto de web semántica y su estructura.
 Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el caso.
 Preguntas:
 
-1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
+1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6) Una etiqueta es una instrucción y un elemento conforma la estructura del texto abaraca un conjunto de instrucciones.
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
+
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
-        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
-        b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
-        contenido de la página
-        c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
-        información sobre el contenido de la etiqueta.
-        d) Es solo una palabra de moda sin sentido.
   
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
-        a) header
-        b) footer
-        c) nav
         d) aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
-        a) mark
-        b) article
-        c) time
+    
         d) span
   
-5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5) <articule>, <section>, <footer>, <header>, <nav>, <mark>, <time>
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+        1. <img "birthday.jpg"> esta mal escrito y no tienen la línea de ubicación  <img scr="">
+        2. <i>Congratulations!<i> falta la / del cierre <i>Congratulation</i>
+        3. <a href="file.html">Enlace de texto</a href="file.html"> en la parte de cerrar no lleva el vinculo. <a href="file.html">Enlace de texto</a>
+        4. <p>Esto es un párrafo<\p> Diagonal alrevés <p>Esto es un párrafo</p> 
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
