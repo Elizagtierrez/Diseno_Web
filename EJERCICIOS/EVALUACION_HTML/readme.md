@@ -65,7 +65,7 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
     
         d) span
   
-5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5) <articule>, <section>, <footer>, <header>, <nav>, <mark>, <time>
+5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5) articule, section, footer, header, nav, mark, time
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
