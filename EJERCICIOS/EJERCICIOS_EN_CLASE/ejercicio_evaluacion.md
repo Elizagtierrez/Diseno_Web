@@ -53,3 +53,66 @@
 
 
 ## AGREGA EL CSS NECESARIO A LA PÁGINA.
+
+
+*{margin: 0;
+padding: 0;}
+
+.espacio{padding: 20px;
+border: 2px solid white;}
+header{background-color: black;
+padding: 0px;
+margin: 0px;}
+h1 {text-align: center;
+font-weight: 1000;  
+color: rgb(224, 255, 224);
+font-family: 'Lato', sans-serif;
+padding: 20px;
+}
+nav{list-style-type: none;
+text-align: center;
+background-color: rgb(224, 255, 224);
+font-family: 'Lato', sans-serif;
+float: inherit;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 0px;
+padding-right: 0px;
+}
+nav li{display: inline;
+text-align: center;
+margin: 0 35px 0 ;
+}
+.borde{border: 2px solid white;
+}
+#azul{color: rgb(50, 50, 248);}
+article{color: black;
+background-color: rgb(0, 208, 255);
+text-align: center;
+font-family: 'Lato', sans-serif;
+float: left;
+min-height: 200px;
+padding: 20px;
+width: 70%;
+margin-top: 20px;
+}
+article p{font-family: 'Poppins', sans-serif;
+}
+aside{color: black;
+background-color: rgb(241, 10, 137);
+text-align: center;
+font-family: 'Lato', sans-serif;
+float: right;
+min-height: 220px;
+padding:10px ;
+width: 20%;
+margin-top: 20px
+}
+aside p{margin-bottom: 20px;}
+.boton{padding: 10px;}
+footer{color: black;
+background-color: yellow;
+text-align: center;
+font-family: 'Lato', sans-serif;
+float: inherit;
+margin-top: 20px;}
