@@ -176,12 +176,106 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
 
           INGRESA AQUI EL CÓDIGO HTML
+
+                              <!DOCTYPE html>
+                    <html lang="en">
+                    <head>
+                        <meta charset="UTF-8">
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                        <title>evaluacioncss</title>
+                        <link rel="stylesheet" href="css/estilos.css">
+                        <link rel="preconnect" href="https://fonts.googleapis.com">
+                    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+                    </head>
+                    <body>
+                        <header>
+                            <div class="logo">
+                            <img src="img/logo.png" alt="" width="250px">
+                            </div>
+                            <hr>
+                            <nav>
+                                <ul>
+                                    <li>Residentes</li>
+                                    <li>Negocios</li>
+                                    <li>Visitantes</li>
+                                    <li>Gobierno</li>
+                                </ul>
+                            </nav>
+                        </header>
+                        <main>
+                            <div class="texto">
+                                <p>
+                                  <span> <b>></b></span>APRENDER A PROGRAMAR <br>  EN LAS  <span><b>ESCUELAS <br> DE CÓDIGO</b></span>  <br> DE LA CDMX
+                                </p>
+                            </div>
+                        </main>
+                        <footer>
+                            <h3>¿Quién se puede inscribir?</h3>
+                            <p class="parrafo"><b>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana.</b>  <br> *Menores de edad deberán entrar a las instalaciones acompañados de un adulto</p>
+                        </footer>
+
+                    </body>
+                    </html>
           
           
           
           
           INGRESA AQUI EL CSS
           
+                              *{margin: 0;
+                    padding: 0;
+                    font-family: 'Open Sans', sans-serif;}
+                    header{
+                        background-color: white;
+                    }
+                    .logo{display: flex;}
+                    nav{display: flex;
+                        justify-content: space-around;
+                        width: 100%;
+                    }
+                    ul{list-style: none;
+                    display: flex;
+                    justify-content: flex-end;
+                    text-align: end;
+                    margin-left: 70%;
+                    margin-top: 10px;
+                    margin-top: 10px;
+                    }
+                    li{margin-right: 20px;
+                        color: rgb(4, 68, 4);
+                        font: bolder;
+                    }
+                    main{background: url("../img/hero.jpg");
+                    background-size: cover;
+                    padding: 50px;
+                    margin-left: 20px;
+                    margin-right: 20px;
+                    margin-top: 20px;
+                    }
+                    .texto{width: 50%;
+                        text-align: right;
+                    }
+                    .flecha{font-size: 70px;
+                    font: bolder;
+                    color: white;
+                    }
+                    p{color: white;
+                    font: bold;
+                    font-size: 50px;
+                    font: bolder;
+                    }
+                    span{font-size: xx-large;
+                    font-size: 70px;
+                    font: bolder;}
+                    footer{text-align: center;
+                    }
+                    h3{color: rgb(224, 149, 35);
+                        margin-top: 20px;
+                    }
+                    .parrafo{color: rgb(56, 56, 56);
+                    font-size: 15px;}
           
           
  Ingresa el link a tu página del proyecto final
